@@ -1,5 +1,5 @@
 module.exports = [
-  { id: 1, name: "iPhone 14 Pro Max", category: "Mobiles", originalPrice: 150000, discountedPrice: 97500, discountPercent: 20, imageUrl: "/images/Apple iPhone 14 Pro Max.webp" },
+  { id: 1, name: "iPhone 14 Pro Max", category: "Mobiles", originalPrice: 150000, discountedPrice: 97500, discountPercent: 35, imageUrl: "/images/Apple iPhone 14 Pro Max.webp" },
   { id: 2, name: "Nike Air Max", category: "Fashion", originalPrice: 9999, discountedPrice: 7999, discountPercent: 20, imageUrl: "/images/Nike Air Max.webp" },
   { id: 3, name: "HP Victus Gaming", category: "Laptops", originalPrice: 72500, discountedPrice: 58000, discountPercent: 20, imageUrl: "/images/HP Victus Gaming.webp" },
   { id: 4, name: "Sony WH-1000XM5", category: "Headphones", originalPrice: 37490, discountedPrice: 29990, discountPercent: 20, imageUrl: "/images/Sony WH-1000XM5.webp" },
